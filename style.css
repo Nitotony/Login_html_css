@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: plum;
+}
+
+
+
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 10px 50px;
+    padding: 50px;
+}
+
+
+label{
+    display: block;
+}
+
+.form-content{
+    background-color: antiquewhite;
+    margin: 100px 800px;
+    text-align: center;
+    border-radius: 20px;
+    border: 20px solid purple;
+}
+
+button{
+    margin: 20px;
+    padding: 5px;
+    background-color: rgb(34, 99, 95);
+    color: aliceblue;
+}
