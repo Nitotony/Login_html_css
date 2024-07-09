@@ -22,11 +22,13 @@ label{
 }
 
 .form-content{
+
     background-color: antiquewhite;
+    width: 300px;
     margin: 100px 800px;
     text-align: center;
     border-radius: 20px;
-    border: 20px solid purple;
+    border: 20px solid rgb(151, 124, 151);
 }
 
 button{
